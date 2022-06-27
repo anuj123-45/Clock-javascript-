@@ -3,6 +3,6 @@
 <head>
 </head>
 <body>
-  <img src="clock.jpg" width="800px" alt="natural" />
+  <img src="clock.jpg" width="500px" alt="natural" />
 </body>
 </html>
